@@ -21,6 +21,6 @@ dbase.collection('user').insertMany(data , function(error, response){
         throw error;  
       
     }  
-    console.log("Numnber of document is inserted.........", response);  
+    console.log("Number of document is inserted.........", response);  
 })  
 })  
